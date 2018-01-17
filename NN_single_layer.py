@@ -1,3 +1,4 @@
+#make sure to download test and train data and keep in the specified folder
 from numpy import exp, array, dot, random
 import pandas as pd
 import numpy as np
